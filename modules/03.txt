@@ -54,7 +54,7 @@ Key Takeaways =>
         8. EPS = PAT / Total number of outstanding ordinary shares
 
     6. Understanding Balance Sheet Statement (Part 1)
-        1. A Balance sheet also called the Statement of Financial Position is prepared on a flow basis which depicts the financial position of the company at any given point in time. It is a statement which shows what the company owns ( assets) and what the company owes (liabilities)
+        1. A Balance sheet also called the Statement of Financial Position is prepared on a flow basis which depicts the financial position of the company at any given point in time. It is a statement which shows what the company owns (assets) and what the company owes (liabilities)
         2. A business will generally need a balance sheet when it seeks investors, applies for loans, submits taxes etc.
         3. Balance sheet equation is Assets = Liabilities + Shareholders’ Equity
         4. Liabilities are obligations or debts of a business from past transactions and Share capital is number of shares * face value
@@ -129,7 +129,7 @@ Key Takeaways =>
         1. Valuation in general, is the estimate of the ‘worth’ of something
         2. Valuation ratios involves inputs from both the P&L statement and the Balance Sheet
         3. The Price to Sales ratio compares the stock price of the company with the company’s sales per share - 
-            a. Sales per share is simply the Sales divided by the Number of shares 125
+            a. Sales per share is simply the Sales divided by the Number of shares
         4. Sales of a company with a higher profit margin is more valuable in comparison to the sales of a company with lower profit margins
         5. If a company is going bankrupt, the ‘Book Value’ of a firm is simply the amount of money left on table after the company pays off its obligations
         6. Book value is usually expressed on a per share basis
